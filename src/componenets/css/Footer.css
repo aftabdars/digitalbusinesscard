@@ -1,0 +1,10 @@
+#footer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3em;
+    position: relative;
+    top: 5%;
+    background: #161619;
+    padding: 1em;
+    border-radius: 0 0 2em 2em;
+}
